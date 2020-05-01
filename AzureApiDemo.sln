@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWebApi2", "DemoWebApi2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppClient", "ConsoleAppClent\ConsoleAppClient.csproj", "{7F539059-376C-4404-B336-1F72EA4063F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppPostEventGrid", "ConsoleAppPostEventGrid\ConsoleAppPostEventGrid.csproj", "{BB00364C-303B-4DCC-A13F-09507EAE7694}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7F539059-376C-4404-B336-1F72EA4063F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F539059-376C-4404-B336-1F72EA4063F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F539059-376C-4404-B336-1F72EA4063F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB00364C-303B-4DCC-A13F-09507EAE7694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB00364C-303B-4DCC-A13F-09507EAE7694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB00364C-303B-4DCC-A13F-09507EAE7694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB00364C-303B-4DCC-A13F-09507EAE7694}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
